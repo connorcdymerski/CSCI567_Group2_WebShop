@@ -10,26 +10,24 @@
 <body>
 <div style="color: white; text-align: center; font-size: 30px;">About <i class="fa fa-address-book"></i></div>
 <div style="background-color: white; padding:35px; font-size: 30px;">
-BTech Days
+Group2 inc.
 <br>
-Hey everyone!!
+Hello Valued Customers
 <br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
+This is our demo web store for our peers to attempt to access.
+We put lots of effort in good luck.
+May the force be with you.
 <br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
+We have lots of pages.
+Maybe one has a flaw.
+We hope you like what you see.
+Happy Shopping
 <br>
-Contact us at :- btechdays.care@gmail.com
+Contact us at group2@group2inc.com
 <br>
 or
 <br>
-contact us at instagram :- btechdays
+contact us through Blackboard
 </div>
 
 </body>
