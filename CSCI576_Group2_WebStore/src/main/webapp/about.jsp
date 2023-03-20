@@ -12,7 +12,7 @@
 <div style="background-color: white; padding:35px; font-size: 30px;">
 Group2 inc.
 <br>
-Hello Valued Customers
+Hello Valued Customers,
 <br>
 This is our demo web store for our peers to attempt to access.
 We put lots of effort in good luck.
