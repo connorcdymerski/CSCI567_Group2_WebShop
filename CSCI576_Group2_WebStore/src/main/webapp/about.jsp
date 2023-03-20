@@ -21,7 +21,7 @@ May the force be with you.
 We have lots of pages.
 Maybe one has a flaw.
 We hope you like what you see.
-Happy Shopping
+Happy Shopping.
 <br>
 Contact us at group2@group2inc.com
 <br>
