@@ -12,7 +12,11 @@
 <div style="background-color: white; padding:35px; font-size: 30px;">
 Group2 inc.
 <br>
+<<<<<<< HEAD
 Hello Valued Customers.
+=======
+Hello Valued Customers.
+>>>>>>> branch 'master' of https://github.com/connorcdymerski/CSCI567_Group2_WebShop.git
 <br>
 This is our demo web store for our peers to attempt to access.
 We put lots of effort in good luck.
@@ -21,7 +25,7 @@ May the force be with you.
 We have lots of pages.
 Maybe one has a flaw.
 We hope you like what you see.
-Happy Shopping
+Happy Shopping.
 <br>
 Contact us at group2@group2inc.com
 <br>
