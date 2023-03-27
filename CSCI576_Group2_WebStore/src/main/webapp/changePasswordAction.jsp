@@ -5,8 +5,6 @@ String email=session.getAttribute("email").toString();
 String oldPassword=request.getParameter("oldPassword");
 String newPassword=request.getParameter("newPassword");
 String confirmPassword=request.getParameter("confirmPassword");
-System.out.println(email);
-System.out.println(oldPassword);
 if(!confirmPassword.equals(newPassword))
 	response.sendRedirect("changePassword.jsp?msg=notMatch");
 else

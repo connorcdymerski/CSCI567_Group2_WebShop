@@ -38,7 +38,7 @@ catch(Exception e)
 {}
 %>
 <form action="addNewProductAction.jsp" method="post">
-<h3 style="color: orange;">Product ID:<%out.println(id); %> </h3>
+<h3 style="color: yellow;">Product ID:<%out.println(id); %> </h3>
 <input type="hidden" name="id" value="<%out.println(id); %>">
 
 <div class="left-div">
